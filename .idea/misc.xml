@@ -5,7 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/dialog_progress.xml" value="0.1890625" />
-        <entry key="app/src/main/res/layout/fragment_challenge.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/fragment_challenge.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/li_challenge_item.xml" value="0.1890625" />
       </map>
     </option>
   </component>

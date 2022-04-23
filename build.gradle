@@ -3,7 +3,6 @@ buildscript {
         minSdkVersion = 23
         targetSdkVersion = 32
 
-        kotlin_version = '1.5.30'
         core_ktx_version = '1.6.20'
         material_version = "1.4.0"
         constraintlayout_version = '2.1.0'

@@ -15,7 +15,7 @@ import com.google.android.material.snackbar.Snackbar
 import com.test.presentation.view.ProgressDialog
 import kotlinx.coroutines.launch
 
-abstract class BaseFragment<VB : ViewBinding, VM : BaseViewModel> : Fragment() {
+abstract class BaseFragment<VB : ViewBinding, VM : BaseViewModel<*>> : Fragment() {
 
     private var _binding: VB? = null
     protected val binding get() = _binding!!
@@ -34,12 +34,12 @@ abstract class BaseFragment<VB : ViewBinding, VM : BaseViewModel> : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        binding.onInitializeViews()
         viewLifecycleOwner.lifecycleScope.launch {
             viewLifecycleOwner.repeatOnLifecycle(Lifecycle.State.STARTED) {
                 viewModel.states.collect { state -> onBindState(state) }
             }
         }
+        binding.onInitializeViews()
     }
 
     override fun onDestroyView() {

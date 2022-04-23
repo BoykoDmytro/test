@@ -8,7 +8,7 @@ import androidx.lifecycle.repeatOnLifecycle
 import androidx.viewbinding.ViewBinding
 import kotlinx.coroutines.launch
 
-abstract class BaseActivity<VB : ViewBinding, VM : BaseViewModel> :
+abstract class BaseActivity<VB : ViewBinding, VM : BaseViewModel<*>> :
     AppCompatActivity() {
 
     private var _binding: VB? = null
