@@ -1,5 +1,6 @@
 package com.test.data.repository
 
+import com.test.data.entity.Challenge
 import com.test.data.entity.ChallengeList
 import com.test.data.network.service.ChallengeService
 import com.test.domain.repository.IChallengeRepository
@@ -12,4 +13,7 @@ class ChallengeRepositoryImpl @Inject constructor(private val service: Challenge
 
     override suspend fun getChallenges(user: String, page: Long): ChallengeList =
         service.getChallenges(user, page)
+
+    override suspend fun getChallengeById(challengeId: String): Challenge =
+        service.getChallenge(challengeId)
 }

@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.197" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/dialog_progress.xml" value="0.1890625" />
         <entry key="app/src/main/res/layout/fragment_challenge.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/fragment_challenge_details.xml" value="0.153125" />
         <entry key="app/src/main/res/layout/li_challenge_item.xml" value="0.1890625" />
+        <entry key="app/src/main/res/layout/view_table.xml" value="0.1890625" />
       </map>
     </option>
   </component>

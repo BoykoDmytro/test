@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.Test" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.Test" parent="Theme.MaterialComponents.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -12,6 +12,8 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <item name="android:toolbarStyle">@style/Theme.Test.ToolBar</item>
+        <item name="toolbarStyle">@style/Theme.Test.ToolBar</item>
     </style>
 
     <style name="Theme.Test.Starting" parent="Theme.SplashScreen">
@@ -20,4 +22,25 @@
         <item name="windowSplashScreenAnimationDuration">200</item>
         <item name="postSplashScreenTheme">@style/Theme.Test</item>
     </style>
+
+    <style name="Theme.Test.ToolBar" parent="Widget.MaterialComponents.Toolbar">
+        <item name="buttonGravity">center_vertical</item>
+        <item name="titleEnabled">false</item>
+        <item name="titleCentered">true</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="titleTextAppearance">@style/Theme.Test.ToolbarText</item>
+    </style>
+
+    <style name="Theme.Test.ToolbarText">
+        <item name="android:textSize">@dimen/sp_16</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="Theme.Test.ToolBar.Back">
+        <item name="navigationIcon">@drawable/ic_back</item>
+    </style>
+
+    <dimen name="sp_16">16sp</dimen>
 </resources>

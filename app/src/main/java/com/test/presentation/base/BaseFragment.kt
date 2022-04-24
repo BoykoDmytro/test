@@ -35,7 +35,7 @@ abstract class BaseFragment<VB : ViewBinding, VM : BaseViewModel<*>> : Fragment(
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         viewLifecycleOwner.lifecycleScope.launch {
-            viewLifecycleOwner.repeatOnLifecycle(Lifecycle.State.STARTED) {
+            viewLifecycleOwner.repeatOnLifecycle(Lifecycle.State.RESUMED) {
                 viewModel.states.collect { state -> onBindState(state) }
             }
         }

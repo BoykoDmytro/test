@@ -26,16 +26,23 @@
         app:layout_constraintTop_toBottomOf="@id/li_challenge_item_name"
         tools:text="2017-04-06T16:32:09Z" />
 
-    <com.google.android.material.chip.ChipGroup
-        android:id="@+id/li_challenge_item_languages"
-        style="@style/Widget.MaterialComponents.ChipGroup"
+    <HorizontalScrollView
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="@dimen/margin4"
+        android:layout_height="@dimen/chip_group_height"
+        android:scrollbars="none"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/li_challenge_item_time"
-        app:singleSelection="false" />
+        app:layout_constraintTop_toBottomOf="@id/li_challenge_item_time">
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/li_challenge_item_languages"
+            style="@style/Widget.MaterialComponents.ChipGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin4"
+            app:singleLine="true"
+            app:singleSelection="true" />
+    </HorizontalScrollView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

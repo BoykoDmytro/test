@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Test</string>
     <string name="challenge_list">%s challenge list</string>
+    <string name="title">Title</string>
+    <string name="url">Url</string>
+    <string name="challenge_name_title">%1$s challenge %2$s</string>
+    <string name="description">Description</string>
+    <string name="totalAttempts">Total attemps</string>
+    <string name="totalCompleted">Total completed</string>
+    <string name="totalStars">Total stars</string>
 </resources>

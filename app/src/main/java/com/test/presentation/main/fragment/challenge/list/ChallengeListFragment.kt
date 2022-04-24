@@ -6,17 +6,18 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
+import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.test.R
 import com.test.common.toDp
 import com.test.data.entity.UserData
-import com.test.databinding.FragmentChallengeBinding
+import com.test.databinding.FragmentChallengeListBinding
 import com.test.presentation.base.BaseFragment
 import com.test.presentation.base.BaseState
 import com.test.presentation.base.adapter.decorator.SpacesItemDecoration
 import com.test.presentation.base.listener.OnItemClickListener
-import com.test.presentation.main.MainState
+import com.test.presentation.base.listener.PaginationListener
 import com.test.presentation.main.fragment.challenge.list.adapter.ChallengeListAdapter
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.launch
@@ -24,7 +25,7 @@ import java.util.*
 
 @AndroidEntryPoint
 internal class ChallengeListFragment :
-    BaseFragment<FragmentChallengeBinding, ChallengeStateViewModel>(),
+    BaseFragment<FragmentChallengeListBinding, ChallengeStateViewModel>(),
     OnItemClickListener<UserData> {
 
     companion object {
@@ -38,7 +39,8 @@ internal class ChallengeListFragment :
     override fun onCreateViewBinding(
         inflater: LayoutInflater,
         container: ViewGroup?
-    ): FragmentChallengeBinding = FragmentChallengeBinding.inflate(inflater, container, false)
+    ): FragmentChallengeListBinding =
+        FragmentChallengeListBinding.inflate(inflater, container, false)
 
     override fun onBindState(state: BaseState) {
         when (state) {
@@ -49,14 +51,19 @@ internal class ChallengeListFragment :
     }
 
     private fun handleOpenItem(userData: UserData) {
-
+        val challengeId = userData.id
+        val direction = ChallengeListFragmentDirections.actionChallengeListToChallengeDetails(
+            challengeId,
+            USER_NAME
+        )
+        findNavController().navigate(direction)
     }
 
     private fun handleItems(data: MutableList<UserData>) {
         challengeListAdapter.addItems(data)
     }
 
-    override fun FragmentChallengeBinding.onInitializeViews() {
+    override fun FragmentChallengeListBinding.onInitializeViews() {
         fChallengeListToolbar.title =
             String.format(Locale.ROOT, getString(R.string.challenge_list), USER_NAME)
         with(fChallengeListRv) {
@@ -64,13 +71,10 @@ internal class ChallengeListFragment :
             val llm = LinearLayoutManager(requireContext())
             layoutManager = llm
             addItemDecoration(SpacesItemDecoration(16.toDp(), 8.toDp()))
+            addOnScrollListener(PaginationListener(viewModel))
             addItemDecoration(DividerItemDecoration(requireContext(), llm.orientation))
         }
-        viewLifecycleOwner.lifecycleScope.launch {
-            viewLifecycleOwner.repeatOnLifecycle(Lifecycle.State.STARTED) {
-                viewModel.getItems(USER_NAME)
-            }
-        }
+        viewModel.getItems(USER_NAME)
     }
 
     override fun onItemClick(item: UserData) {
