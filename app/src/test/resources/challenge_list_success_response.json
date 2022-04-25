@@ -1,0 +1,1808 @@
+{
+  "totalPages": 50,
+  "totalItems": 9873,
+  "data": [
+    {
+      "id": "62652939385ccf0030cb537a",
+      "name": "Pawn Promotion",
+      "slug": "pawn-promotion",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T16:56:37.463Z"
+    },
+    {
+      "id": "62642f000fe6db42eda65052",
+      "name": "Check if IP is in given Network",
+      "slug": "check-if-ip-is-in-given-network",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-04-24T01:52:32.571Z"
+    },
+    {
+      "id": "6262f9f7afc4729d8f5bef48",
+      "name": "Find the total white and black areas in a strange chessboard",
+      "slug": "find-the-total-white-and-black-areas-in-a-strange-chessboard",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T01:39:49.062Z"
+    },
+    {
+      "id": "6261b67522d52c000e5e6996",
+      "name": "Percentage of primary color in HEX color",
+      "slug": "percentage-of-primary-color-in-hex-color",
+      "completedLanguages": [
+        "typescript"
+      ],
+      "completedAt": "2022-04-24T01:27:19.408Z"
+    },
+    {
+      "id": "62648e0b9eeaacb9fba250a5",
+      "name": "Win The Tic-Tac-Toe",
+      "slug": "win-the-tic-tac-toe",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T01:19:47.284Z"
+    },
+    {
+      "id": "6262e3e6d13ea6fd0c066463",
+      "name": "Breaking sticks",
+      "slug": "breaking-sticks",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T01:11:11.770Z"
+    },
+    {
+      "id": "625ea99e2fe527003a73af94",
+      "name": "Laura's mess with the academical titles",
+      "slug": "lauras-mess-with-the-academical-titles",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-24T01:07:27.419Z"
+    },
+    {
+      "id": "626196b822d52c00165e64af",
+      "name": "Go rank (EGF)",
+      "slug": "go-rank-egf",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T00:41:55.841Z"
+    },
+    {
+      "id": "62629041afc47200175bf2e6",
+      "name": "Deep Lists",
+      "slug": "deep-lists",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T00:06:51.536Z"
+    },
+    {
+      "id": "626470c6d13ea68e5006645d",
+      "name": "Clap at 7",
+      "slug": "clap-at-7",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-24T00:00:51.622Z"
+    },
+    {
+      "id": "626466bdd13ea6923d0663ea",
+      "name": "Tunnel Digging",
+      "slug": "tunnel-digging",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-23T23:59:46.411Z"
+    },
+    {
+      "id": "6258e24da071210058c864b3",
+      "name": "Points are collinear in 3D",
+      "slug": "points-are-collinear-in-3d",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-20T15:55:27.551Z"
+    },
+    {
+      "id": "625d02d7a071210017c8f0c3",
+      "name": "Line up",
+      "slug": "line-up",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-20T14:12:00.300Z"
+    },
+    {
+      "id": "625eb7850e2c2f000eca370c",
+      "name": "C overloading",
+      "slug": "c-overloading",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2022-04-20T14:08:26.570Z"
+    },
+    {
+      "id": "615dd90346a119004af6d916",
+      "name": "Taylor's Sine Approximation: How Many Terms?",
+      "slug": "taylors-sine-approximation-how-many-terms",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-20T13:24:59.019Z"
+    },
+    {
+      "id": "625d9ee58f66eb00507ef139",
+      "name": "The Magnificent Seven",
+      "slug": "the-magnificent-seven",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-20T06:01:40.630Z"
+    },
+    {
+      "id": "625bb5d5a071210017c8ca97",
+      "name": "Binary Sudoku - Part I",
+      "slug": "binary-sudoku-part-i",
+      "completedLanguages": [
+        "ruby"
+      ],
+      "completedAt": "2022-04-20T06:00:56.154Z"
+    },
+    {
+      "id": "625ea5c1a071210065c923af",
+      "name": "Plastic Balance",
+      "slug": "plastic-balance",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-19T16:35:42.959Z"
+    },
+    {
+      "id": "625d1c5b2f6c2c00300d97b7",
+      "name": "Xor reduction (medium)",
+      "slug": "xor-reduction-medium",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-19T15:47:26.216Z"
+    },
+    {
+      "id": "625c1e9dc7eedf004a8a5ae9",
+      "name": "Look Ma, No Statements! - Part 2",
+      "slug": "look-ma-no-statements-part-2",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2022-04-19T15:40:46.705Z"
+    },
+    {
+      "id": "625a9ee6a071210017c8a336",
+      "name": "Look Ma, No Statements! - Part 1",
+      "slug": "look-ma-no-statements-part-1",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2022-04-19T15:20:53.258Z"
+    },
+    {
+      "id": "623c6aa872df870064e9f922",
+      "name": "But wait!  How to prove type is not equal?",
+      "slug": "but-wait-how-to-prove-type-is-not-equal",
+      "completedLanguages": [
+        "agda"
+      ],
+      "completedAt": "2022-04-14T08:01:22.209Z"
+    },
+    {
+      "id": "62528562983b3500648ff989",
+      "name": "The End is Inevitable",
+      "slug": "the-end-is-inevitable",
+      "completedLanguages": [
+        "agda"
+      ],
+      "completedAt": "2022-04-14T07:45:08.143Z"
+    },
+    {
+      "id": "62569babdb611500166186f5",
+      "name": "BlackListed",
+      "slug": "blacklisted",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-04-14T01:48:59.326Z"
+    },
+    {
+      "id": "625749538a6ed10028b711da",
+      "name": "Who will win the fight Kata",
+      "slug": "who-will-win-the-fight-kata",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-14T01:46:51.245Z"
+    },
+    {
+      "id": "625415d4509ed50032deddf9",
+      "name": "Variation of Variation on Caesar Cipher: Rot13",
+      "slug": "variation-of-variation-on-caesar-cipher-rot13",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-14T01:41:26.162Z"
+    },
+    {
+      "id": "6255e6f2c53cc9001e5ef629",
+      "name": "Wordle! Cheat bot",
+      "slug": "wordle-cheat-bot",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-13T02:59:44.912Z"
+    },
+    {
+      "id": "624cfadc3e1d7b006358595c",
+      "name": "How Many Guesses to Find This Number!",
+      "slug": "how-many-guesses-to-find-this-number",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-13T01:30:37.175Z"
+    },
+    {
+      "id": "6255eb3dea4e7f006179ee0e",
+      "name": "The Shy Character",
+      "slug": "the-shy-character",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-13T01:18:48.907Z"
+    },
+    {
+      "id": "622f43cecdd705006430de9c",
+      "name": "Generalisations",
+      "slug": "generalisations",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-04-12T08:46:58.025Z"
+    },
+    {
+      "id": "625479472495f20057da1610",
+      "name": "[\"No Letter Challenge\"] Polynomial Extrapolation",
+      "slug": "no-letter-challenge-polynomial-extrapolation",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2022-04-12T01:35:35.059Z"
+    },
+    {
+      "id": "6241e7716c8469005d8208ce",
+      "name": "Church Numerals - Prefix is Overrated",
+      "slug": "church-numerals-prefix-is-overrated",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-04-11T09:47:28.320Z"
+    },
+    {
+      "id": "600fd9143eed6f0013361d55",
+      "name": "Assemblearning - Clamp",
+      "slug": "assemblearning-clamp",
+      "completedLanguages": [
+        "nasm"
+      ],
+      "completedAt": "2022-04-11T09:02:30.564Z"
+    },
+    {
+      "id": "6223267e7b048e005d63cb36",
+      "name": "The 95 Theses",
+      "slug": "the-95-theses",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-04-11T07:52:40.784Z"
+    },
+    {
+      "id": "624f3171c0da4c000f4b801d",
+      "name": "Barista Manager",
+      "slug": "barista-manager",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-11T04:18:05.253Z"
+    },
+    {
+      "id": "6223289a43585d00239bab01",
+      "name": "Simple Counter",
+      "slug": "simple-counter",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-04-11T04:03:05.150Z"
+    },
+    {
+      "id": "6253799a629507b60a045648",
+      "name": "Purely Random: Xorshift32",
+      "slug": "purely-random-xorshift32",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-04-11T03:29:07.966Z"
+    },
+    {
+      "id": "624ddc1fc0da4c00174b5438",
+      "name": "Implement classNames function",
+      "slug": "implement-classnames-function",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-04-10T06:53:21.152Z"
+    },
+    {
+      "id": "62524390983b35002c8ff1e5",
+      "name": "Numbers in terms of 3's and 7's",
+      "slug": "numbers-in-terms-of-3-s-and-7-s",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-10T06:39:34.818Z"
+    },
+    {
+      "id": "6251cba4629507b60a041b0e",
+      "name": "Steganography Part 2",
+      "slug": "steganography-part-2",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-10T06:27:57.460Z"
+    },
+    {
+      "id": "624fc787983b3500648faf11",
+      "name": "Steganography Part 1",
+      "slug": "steganography-part-1",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-10T06:24:19.438Z"
+    },
+    {
+      "id": "6251dae6983b3500458fef46",
+      "name": "Get the sum of all the integers in a string",
+      "slug": "get-the-sum-of-all-the-integers-in-a-string",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-10T00:37:02.447Z"
+    },
+    {
+      "id": "624dfbc87ee0d200157ad483",
+      "name": "Interweave the Inequalities and the Integers",
+      "slug": "interweave-the-inequalities-and-the-integers",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-08T04:13:13.679Z"
+    },
+    {
+      "id": "624f96da629507005803e603",
+      "name": "a + b, a - b, a * b",
+      "slug": "a-plus-b-a-b-a-star-b",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-08T03:20:48.467Z"
+    },
+    {
+      "id": "624f3faec0da4c004b4b7fd2",
+      "name": "Bug Problem #3",
+      "slug": "bug-problem-number-3",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-08T01:29:52.881Z"
+    },
+    {
+      "id": "624f1456881dac005273df53",
+      "name": "Bug Problem #2",
+      "slug": "bug-problem-number-2",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-08T01:25:56.368Z"
+    },
+    {
+      "id": "624f0a65c0da4c00174b7a31",
+      "name": "Bug Problem #1",
+      "slug": "bug-problem-number-1",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-08T01:24:15.117Z"
+    },
+    {
+      "id": "624e0a4c3e1d7b0031588666",
+      "name": "Prostate cancer recurrence rates (ASTRO)",
+      "slug": "prostate-cancer-recurrence-rates-astro",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-08T01:23:14.438Z"
+    },
+    {
+      "id": "624e6b83c0da4c00314b6198",
+      "name": "Album lengths",
+      "slug": "album-lengths",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-04-07T12:53:10.609Z"
+    },
+    {
+      "id": "624e3bdbc0da4c00174b5f59",
+      "name": "Prostate cancer recurrence rates (Phoenix)",
+      "slug": "prostate-cancer-recurrence-rates-phoenix",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-07T02:29:29.043Z"
+    },
+    {
+      "id": "624e348d3e1d7b0031588ba3",
+      "name": "List:Find Total Numbers",
+      "slug": "list-find-total-numbers",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-07T02:20:18.771Z"
+    },
+    {
+      "id": "624df07f48a8be003eec2c4d",
+      "name": "Implement  isObjectEmpty function",
+      "slug": "implement-isobjectempty-function",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-04-07T02:10:28.972Z"
+    },
+    {
+      "id": "624cce6c529f2a0055ef242f",
+      "name": "Adding",
+      "slug": "adding",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-06T02:10:24.360Z"
+    },
+    {
+      "id": "624cc80966c14900244fd0e3",
+      "name": "This is a RIDDLE!",
+      "slug": "this-is-a-riddle",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-06T02:09:57.805Z"
+    },
+    {
+      "id": "624caee166c14900174fcdd2",
+      "name": "return x^^2",
+      "slug": "return-x-2",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-06T02:09:44.017Z"
+    },
+    {
+      "id": "624981e322c35400310f6add",
+      "name": "Circle Intersects Rectangle",
+      "slug": "circle-intersects-rectangle",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-04T02:10:35.590Z"
+    },
+    {
+      "id": "624a0bb6a8fca9001647791d",
+      "name": "Generate JSFuck Program",
+      "slug": "generate-jsfuck-program",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-04-04T01:40:47.198Z"
+    },
+    {
+      "id": "62443a1ea8fca9002346d72c",
+      "name": "Rock paper scissors infinite",
+      "slug": "rock-paper-scissors-infinite",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-03T11:42:23.638Z"
+    },
+    {
+      "id": "624702e758ad06006b64fe62",
+      "name": "Squirrel Sports Ranking",
+      "slug": "squirrel-sports-ranking",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-02T13:43:04.852Z"
+    },
+    {
+      "id": "6248122261bf360057d50d00",
+      "name": "Weighted Average of Prime Numbers",
+      "slug": "weighted-average-of-prime-numbers",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-04-02T13:33:45.637Z"
+    },
+    {
+      "id": "62453a1085c36c0017f42265",
+      "name": "Will the Pandemic Ever End ?",
+      "slug": "will-the-pandemic-ever-end",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-04-01T07:02:01.616Z"
+    },
+    {
+      "id": "6242497f6c8469004c821936",
+      "name": "Empires Edition #1  ¿Are you a great Emperor?",
+      "slug": "empires-edition-number-1-are-you-a-great-emperor",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-31T06:30:30.760Z"
+    },
+    {
+      "id": "62435ba9e2be220023060da3",
+      "name": "Is This Piece Under Threat?",
+      "slug": "is-this-piece-under-threat",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-30T18:53:33.999Z"
+    },
+    {
+      "id": "6243819a58ad06b6c663d32b",
+      "name": "[Code Golf] Knight's Next Position",
+      "slug": "code-golf-knights-next-position",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-30T18:50:21.911Z"
+    },
+    {
+      "id": "62408d4845722700105bf5a8",
+      "name": "Please, drink responsibly!",
+      "slug": "please-drink-responsibly",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-29T06:30:49.576Z"
+    },
+    {
+      "id": "605610760aef190033be31af",
+      "name": "Guess the upcoming election result",
+      "slug": "guess-the-upcoming-election-result",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-29T06:12:51.793Z"
+    },
+    {
+      "id": "6227d3b1d207f6002487efed",
+      "name": "Malaka Code",
+      "slug": "malaka-code",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-29T05:40:01.508Z"
+    },
+    {
+      "id": "623f0be645722791e95bb23b",
+      "name": "[Code Golf] Sum of Minimums",
+      "slug": "code-golf-sum-of-minimums",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-29T05:28:19.511Z"
+    },
+    {
+      "id": "623f7d8c6c8469005d81c678",
+      "name": "Retro Health Bar",
+      "slug": "retro-health-bar",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-29T05:27:44.916Z"
+    },
+    {
+      "id": "6240dafb313d5c006551d58b",
+      "name": "Convert milliseconds to readable time string",
+      "slug": "convert-milliseconds-to-readable-time-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-29T05:25:35.656Z"
+    },
+    {
+      "id": "623c9f8b46dd2d00343440a2",
+      "name": "That's So Meta (Table) #1: Evil Meta",
+      "slug": "thats-so-meta-table-number-1-evil-meta",
+      "completedLanguages": [
+        "lua"
+      ],
+      "completedAt": "2022-03-25T16:43:21.836Z"
+    },
+    {
+      "id": "623b15c572df8700160e3dbf",
+      "name": "Vampires Hideout",
+      "slug": "vampires-hideout",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-24T19:55:51.764Z"
+    },
+    {
+      "id": "623ca25e72df870030ea0377",
+      "name": "Playing with Streams: nth Square",
+      "slug": "playing-with-streams-nth-square",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-03-24T19:44:48.780Z"
+    },
+    {
+      "id": "5f76296c7de0500016818421",
+      "name": "Nautical flag code",
+      "slug": "nautical-flag-code",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-24T02:45:49.340Z"
+    },
+    {
+      "id": "6202149e89771200306428f0",
+      "name": "Superheroes Convention #1 Pandemic",
+      "slug": "superheroes-convention-number-1-pandemic",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-24T01:50:28.561Z"
+    },
+    {
+      "id": "623b479647a9400042eb3159",
+      "name": "How many pages in a thick book?",
+      "slug": "how-many-pages-in-a-thick-book",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-03-24T01:38:29.857Z"
+    },
+    {
+      "id": "623b06228b8365000ea6aa01",
+      "name": "Mongol Invasion",
+      "slug": "mongol-invasion",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-03-24T01:35:39.177Z"
+    },
+    {
+      "id": "56128c4708358a6b270000ae",
+      "name": "Non-recursive Island Count",
+      "slug": "non-recursive-island-count",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-24T01:32:07.383Z"
+    },
+    {
+      "id": "62396d476f40250024bcfce9",
+      "name": "Elevator malfunctioning",
+      "slug": "elevator-malfunctioning",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-23T01:30:32.349Z"
+    },
+    {
+      "id": "6239ed49231636001313f990",
+      "name": "Playing with Streams: Sum",
+      "slug": "playing-with-streams-sum",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-03-23T01:25:46.741Z"
+    },
+    {
+      "id": "623886329e22a5003e7e2abc",
+      "name": "Stowaway Vanya",
+      "slug": "stowaway-vanya",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-22T09:58:29.631Z"
+    },
+    {
+      "id": "623753f5f2a8d2001eac0235",
+      "name": "Unknown cipher : The beginning",
+      "slug": "unknown-cipher-the-beginning",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-22T09:49:40.248Z"
+    },
+    {
+      "id": "623905b52a25300028159c6b",
+      "name": "Illegal PINs",
+      "slug": "illegal-pins",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-22T09:44:54.689Z"
+    },
+    {
+      "id": "62348455a786a20053613e26",
+      "name": "How many days have passed since a specific date?",
+      "slug": "how-many-days-have-passed-since-a-specific-date",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-18T13:57:54.068Z"
+    },
+    {
+      "id": "6232fbe525eff4004b0fdb26",
+      "name": "WordFinder",
+      "slug": "wordfinder",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-17T09:28:04.336Z"
+    },
+    {
+      "id": "623286de25eff400580fcf1c",
+      "name": "Find Fibonacci last digit (hardcore+custom)",
+      "slug": "find-fibonacci-last-digit-hardcore-plus-custom",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-17T09:25:26.743Z"
+    },
+    {
+      "id": "621470ede0bb220022c9e396",
+      "name": "Diagnosing Hypertension",
+      "slug": "diagnosing-hypertension",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-16T01:42:17.180Z"
+    },
+    {
+      "id": "623063ead190c40062be85e6",
+      "name": "Decrypt message",
+      "slug": "decrypt-message",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-16T01:30:32.469Z"
+    },
+    {
+      "id": "623101f66e8da000239650f0",
+      "name": "Power Calculator",
+      "slug": "power-calculator",
+      "completedLanguages": [
+        "python",
+        "javascript"
+      ],
+      "completedAt": "2022-03-16T01:24:41.816Z"
+    },
+    {
+      "id": "622de397ebb16a001676da3b",
+      "name": "LC Basics - Pairs",
+      "slug": "lc-basics-pairs",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-03-15T04:15:01.350Z"
+    },
+    {
+      "id": "605f7759c8a98c0023833718",
+      "name": "My friend time",
+      "slug": "my-friend-time",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-03-15T01:46:41.308Z"
+    },
+    {
+      "id": "622f6f9f630a4300239f8f69",
+      "name": "Return pyramid",
+      "slug": "return-pyramid",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-15T01:30:10.090Z"
+    },
+    {
+      "id": "622a6a822494ab004b2c68d2",
+      "name": "bread sandwiches",
+      "slug": "bread-sandwiches",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T08:32:25.052Z"
+    },
+    {
+      "id": "622b902f15fbf70058581560",
+      "name": "Understanding Scott",
+      "slug": "understanding-scott",
+      "completedLanguages": [
+        "lambdacalc"
+      ],
+      "completedAt": "2022-03-14T06:10:40.078Z"
+    },
+    {
+      "id": "620bce448e757800242821fe",
+      "name": "Introduction to Unittest Part I - Making Assertions",
+      "slug": "introduction-to-unittest-part-i-making-assertions",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T03:57:41.632Z"
+    },
+    {
+      "id": "621e323a98afab001628d9a0",
+      "name": "Gambling Game Joker",
+      "slug": "gambling-game-joker",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T03:35:44.909Z"
+    },
+    {
+      "id": "622736b8737f01004ae9eeec",
+      "name": "socket server [client-side]",
+      "slug": "socket-server-client-side",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:54:56.587Z"
+    },
+    {
+      "id": "60d0466107cbbc004f6bb8e5",
+      "name": "Windows 95 Product Key Validator",
+      "slug": "windows-95-product-key-validator",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:47:46.880Z"
+    },
+    {
+      "id": "622de76d28bf330057cd6af8",
+      "name": "How many pages in a book?",
+      "slug": "how-many-pages-in-a-book",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:37:51.063Z"
+    },
+    {
+      "id": "622d576828bf33003ecd62de",
+      "name": "Odds and evens",
+      "slug": "odds-and-evens",
+      "completedLanguages": [
+        "php"
+      ],
+      "completedAt": "2022-03-14T02:31:35.907Z"
+    },
+    {
+      "id": "622b24a6db3671001b48e371",
+      "name": "not quite python",
+      "slug": "not-quite-python",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:28:40.269Z"
+    },
+    {
+      "id": "622649e67f5f91002351af39",
+      "name": "Redact  a Key-Value Pair from a Hash in Ruby  – \"The Holy Rail\" – unquest() ",
+      "slug": "redact-a-key-value-pair-from-a-hash-in-ruby-the-holy-rail-unquest",
+      "completedLanguages": [
+        "ruby"
+      ],
+      "completedAt": "2022-03-14T02:25:00.598Z"
+    },
+    {
+      "id": "62262c9a74551c0030dd1601",
+      "name": "Mystical Pattern Creator",
+      "slug": "mystical-pattern-creator",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:22:56.669Z"
+    },
+    {
+      "id": "6222647274f7e4081fa51bbc",
+      "name": "QWERTY Lexicographical Order ",
+      "slug": "qwerty-lexicographical-order",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-14T02:19:39.883Z"
+    },
+    {
+      "id": "6229c671cf4a6e005d132c9d",
+      "name": "flask webserver or something #2 [POST]",
+      "slug": "flask-webserver-or-something-number-2-post",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:10:33.443Z"
+    },
+    {
+      "id": "62270ecbf6c169004879eca1",
+      "name": "flask webserver or something #1 [GET]",
+      "slug": "flask-webserver-or-something-number-1-get",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-14T02:05:46.844Z"
+    },
+    {
+      "id": "6221435e1439d5004b2592ae",
+      "name": "Second Largest Number",
+      "slug": "second-largest-number",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-03-04T02:02:06.039Z"
+    },
+    {
+      "id": "6221498c1439d50065259385",
+      "name": "Fun with ascii",
+      "slug": "fun-with-ascii",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-04T02:00:29.865Z"
+    },
+    {
+      "id": "62204bb40e88a5004a662265",
+      "name": "How Many are Divisible by x",
+      "slug": "how-many-are-divisible-by-x",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-03T09:00:50.490Z"
+    },
+    {
+      "id": "621f89cc94d4e3001bb99ef4",
+      "name": "Don't give me five! Really!",
+      "slug": "dont-give-me-five-really",
+      "completedLanguages": [
+        "cpp"
+      ],
+      "completedAt": "2022-03-03T03:01:29.112Z"
+    },
+    {
+      "id": "621ed5a2291990000e24c664",
+      "name": "Find Which Numbers Can Build a Sum",
+      "slug": "find-which-numbers-can-build-a-sum",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-02T03:35:22.076Z"
+    },
+    {
+      "id": "61fef3a2d8fa98021d38c4e5",
+      "name": "Card Game",
+      "slug": "card-game-1",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-03-01T08:00:22.087Z"
+    },
+    {
+      "id": "621d0c8398afab004a28b5ae",
+      "name": "Filter numerics in string",
+      "slug": "filter-numerics-in-string",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2022-03-01T01:22:37.171Z"
+    },
+    {
+      "id": "6204c419b5e27f001b91a207",
+      "name": "[BF]  Insert in Between... STOP!",
+      "slug": "bf-insert-in-between-dot-dot-dot-stop",
+      "completedLanguages": [
+        "bf"
+      ],
+      "completedAt": "2022-02-28T04:34:25.075Z"
+    },
+    {
+      "id": "621bb63e8a729a00242fe479",
+      "name": "Filter numeric values in string",
+      "slug": "filter-numeric-values-in-string",
+      "completedLanguages": [
+        "go"
+      ],
+      "completedAt": "2022-02-28T02:06:24.243Z"
+    },
+    {
+      "id": "621ab012ed37430016df15c0",
+      "name": "Rasterize a Triangle",
+      "slug": "rasterize-a-triangle",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-02-28T01:55:38.995Z"
+    },
+    {
+      "id": "621bf13a8a729a005f2feda6",
+      "name": "Hello BRAINFU*K",
+      "slug": "hello-brainfu-star-k",
+      "completedLanguages": [
+        "bf"
+      ],
+      "completedAt": "2022-02-28T01:43:45.499Z"
+    },
+    {
+      "id": "621b77b28a729a000f2fd9ca",
+      "name": "Number Spiral - Square Warmup",
+      "slug": "number-spiral-square-warmup",
+      "completedLanguages": [
+        "dart"
+      ],
+      "completedAt": "2022-02-28T01:38:00.865Z"
+    },
+    {
+      "id": "62164f4c914143005416d52e",
+      "name": "In a temper!",
+      "slug": "in-a-temper",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-02-24T16:45:37.052Z"
+    },
+    {
+      "id": "62140a901db30300397bcc70",
+      "name": "Even number position.",
+      "slug": "even-number-position",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-02-22T07:25:42.013Z"
+    },
+    {
+      "id": "6210fb7aabf047000f3a3ad6",
+      "name": "Assemble string",
+      "slug": "assemble-string",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-02-20T15:58:09.475Z"
+    },
+    {
+      "id": "620e839683ba7e003ea49757",
+      "name": "[BF] Area or Perimeter",
+      "slug": "bf-area-or-perimeter",
+      "completedLanguages": [
+        "bf"
+      ],
+      "completedAt": "2022-02-18T02:56:57.844Z"
+    },
+    {
+      "id": "62091881d746e50029366b0a",
+      "name": "UTF-8 aware string length",
+      "slug": "utf-8-aware-string-length",
+      "completedLanguages": [
+        "nasm"
+      ],
+      "completedAt": "2022-02-15T04:44:59.758Z"
+    },
+    {
+      "id": "6209f3c9ccddd7000fca15f5",
+      "name": "Spy Games #001 - Message from an agent",
+      "slug": "spy-games-number-001-message-from-an-agent",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-02-15T02:10:27.201Z"
+    },
+    {
+      "id": "620991e8d746e5004b367fa1",
+      "name": "Tennis match scoring",
+      "slug": "tennis-match-scoring",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-02-14T04:04:20.705Z"
+    },
+    {
+      "id": "6207e32bccddd700170354cb",
+      "name": "Count To-Dos older than 24h",
+      "slug": "count-to-dos-older-than-24h",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-02-14T02:00:50.950Z"
+    },
+    {
+      "id": "62024046897712005e643014",
+      "name": "Magical Boolean Duplet",
+      "slug": "magical-boolean-duplet",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-02-09T04:07:49.515Z"
+    },
+    {
+      "id": "62028ba89d6eee006a3a923e",
+      "name": "Jenkins One At A Time Hash",
+      "slug": "jenkins-one-at-a-time-hash",
+      "completedLanguages": [
+        "nasm"
+      ],
+      "completedAt": "2022-02-09T02:15:22.750Z"
+    },
+    {
+      "id": "61fab7a6a0e59f000ef08feb",
+      "name": "Next Element Generator",
+      "slug": "next-element-generator",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-02-08T03:19:22.058Z"
+    },
+    {
+      "id": "61fca0fca0e59f000ef1324d",
+      "name": "Find the loop in linked list of numbers",
+      "slug": "find-the-loop-in-linked-list-of-numbers",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-02-06T15:49:54.624Z"
+    },
+    {
+      "id": "616da8bc35b459005bcd83e3",
+      "name": "All Expressions Matter",
+      "slug": "all-expressions-matter",
+      "completedLanguages": [
+        "haskell"
+      ],
+      "completedAt": "2022-02-06T15:28:14.990Z"
+    },
+    {
+      "id": "61f3e676e3436dd4dfcf6af5",
+      "name": "Find the remainder of the division by 4",
+      "slug": "find-the-remainder-of-the-division-by-4",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-02-01T16:22:21.101Z"
+    },
+    {
+      "id": "5fe2ea999fd2140016feec63",
+      "name": "🧬Cooking life on Proto Earth🌎",
+      "slug": "cooking-life-on-proto-earth",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-28T02:26:41.061Z"
+    },
+    {
+      "id": "61f3428ae3436d004acf78b1",
+      "name": "Fizzbuzz",
+      "slug": "fizzbuzz-8",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-01-28T01:59:07.823Z"
+    },
+    {
+      "id": "61f3244c24fe411f92d037e6",
+      "name": "Turn a float into an integer",
+      "slug": "turn-a-float-into-an-integer",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-28T01:56:50.404Z"
+    },
+    {
+      "id": "61f2af19e3436d0064cf6022",
+      "name": "Extract the email addresses",
+      "slug": "extract-the-email-addresses",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-28T01:55:37.900Z"
+    },
+    {
+      "id": "61efc02e4fd88600343b5c58",
+      "name": "What is the flag?",
+      "slug": "what-is-the-flag",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-26T02:23:17.628Z"
+    },
+    {
+      "id": "61f036046af5b4002842bc36",
+      "name": "Schwerer Gustav",
+      "slug": "schwerer-gustav",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-26T01:51:59.684Z"
+    },
+    {
+      "id": "61eeb6e7577f050037b17a2d",
+      "name": "Make everyone happy :)",
+      "slug": "make-everyone-happy",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-26T01:47:54.337Z"
+    },
+    {
+      "id": "61f029fc4fd88600343b73d2",
+      "name": "Hangman Verifier",
+      "slug": "hangman-verifier",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-26T01:44:50.275Z"
+    },
+    {
+      "id": "61ef3bd885e2b2004f811e73",
+      "name": "Get Slope-Intercept form with a single point and the slope",
+      "slug": "get-slope-intercept-form-with-a-single-point-and-the-slope",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-01-26T01:42:24.660Z"
+    },
+    {
+      "id": "61eee5cd577f05001db182bc",
+      "name": "Get the method reference from the lambda",
+      "slug": "get-the-method-reference-from-the-lambda",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-01-25T06:55:29.259Z"
+    },
+    {
+      "id": "61e9887981e5830020b0262e",
+      "name": "Make Waves",
+      "slug": "make-waves",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-25T01:37:51.732Z"
+    },
+    {
+      "id": "61ee182c724044001676552b",
+      "name": "WORDLE",
+      "slug": "wordle",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-24T08:24:40.582Z"
+    },
+    {
+      "id": "61ea23ebb07459202178b1d0",
+      "name": "Where is the flag?",
+      "slug": "where-is-the-flag",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-24T02:01:27.434Z"
+    },
+    {
+      "id": "61e98767af14521397104bfc",
+      "name": "Generalized Cipher Class",
+      "slug": "generalized-cipher-class",
+      "completedLanguages": [
+        "cpp",
+        "python"
+      ],
+      "completedAt": "2022-01-21T02:49:56.994Z"
+    },
+    {
+      "id": "61e708c932d50b0042fba845",
+      "name": "Constrain value",
+      "slug": "constrain-value",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-19T01:28:12.254Z"
+    },
+    {
+      "id": "5e90debc151f6b002b405672",
+      "name": "Prove that this sequence contains only integers",
+      "slug": "prove-that-this-sequence-contains-only-integers",
+      "completedLanguages": [
+        "lean"
+      ],
+      "completedAt": "2022-01-18T01:55:05.356Z"
+    },
+    {
+      "id": "5ebba64d6d3d0c003305db14",
+      "name": "If a^b + 1 is prime, then a is even",
+      "slug": "if-a-b-plus-1-is-prime-then-a-is-even",
+      "completedLanguages": [
+        "lean"
+      ],
+      "completedAt": "2022-01-17T07:12:40.579Z"
+    },
+    {
+      "id": "61e43aaaaf28c2000d57cde8",
+      "name": "Fruit counting",
+      "slug": "fruit-counting",
+      "completedLanguages": [
+        "lua"
+      ],
+      "completedAt": "2022-01-17T04:00:04.790Z"
+    },
+    {
+      "id": "61df69c0856e3400577413a0",
+      "name": "Probation Officer - Prescription Drug Review",
+      "slug": "probation-officer-prescription-drug-review",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-17T03:30:24.101Z"
+    },
+    {
+      "id": "5da48818dcf4d6002129a751",
+      "name": "Total items belonging to the categories on all tree levels",
+      "slug": "total-items-belonging-to-the-categories-on-all-tree-levels",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-17T02:54:02.990Z"
+    },
+    {
+      "id": "61e1f175fbf3bd002a5528cd",
+      "name": " Microwave maid Ep1: The touchpad test",
+      "slug": "microwave-maid-ep1-the-touchpad-test",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-16T15:23:44.166Z"
+    },
+    {
+      "id": "61e2f2cded0d77001693ad0b",
+      "name": "Factorial Lambda Calculus",
+      "slug": "factorial-lambda-calculus",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-16T15:10:55.622Z"
+    },
+    {
+      "id": "61e2edfeaf28c2001b57af98",
+      "name": "Subsequence Sums II",
+      "slug": "subsequence-sums-ii",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-15T16:10:04.760Z"
+    },
+    {
+      "id": "61e1b974eb372a001f719527",
+      "name": "Stepping Stones Puzzle",
+      "slug": "stepping-stones-puzzle",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-15T13:55:19.949Z"
+    },
+    {
+      "id": "61e0c66deb372a0007421570",
+      "name": "Fix this",
+      "slug": "fix-this",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-15T13:36:49.762Z"
+    },
+    {
+      "id": "61e2a8aded0d770055939d6f",
+      "name": "Narcissistic number with constant base",
+      "slug": "narcissistic-number-with-constant-base",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-15T12:54:06.356Z"
+    },
+    {
+      "id": "61e173ccbc916700267ef2ae",
+      "name": "Triple Crown",
+      "slug": "triple-crown",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-14T15:50:39.815Z"
+    },
+    {
+      "id": "6115701cc3626a0032453126",
+      "name": "Competition results (code golf)",
+      "slug": "competition-results-code-golf",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T10:22:29.504Z"
+    },
+    {
+      "id": "61168ebdf9b4810031404f25",
+      "name": "Searching for terminal nodes",
+      "slug": "searching-for-terminal-nodes",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T09:22:43.397Z"
+    },
+    {
+      "id": "61e128dc748f97004b46ea0d",
+      "name": "Get The Substring",
+      "slug": "get-the-substring",
+      "completedLanguages": [
+        "c"
+      ],
+      "completedAt": "2022-01-14T08:18:13.337Z"
+    },
+    {
+      "id": "618ce331df011e0030ecc0fb",
+      "name": "Restoring from history",
+      "slug": "restoring-from-history",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T08:07:05.433Z"
+    },
+    {
+      "id": "6035b3c78e0085002231092b",
+      "name": "Balance history",
+      "slug": "balance-history",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T07:27:15.409Z"
+    },
+    {
+      "id": "60384d957d61790018e627ff",
+      "name": "Candlestick Chart",
+      "slug": "candlestick-chart",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T07:20:32.473Z"
+    },
+    {
+      "id": "609a6ab739660a0056fb4a29",
+      "name": "Sum over a database",
+      "slug": "sum-over-a-database",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T06:18:00.935Z"
+    },
+    {
+      "id": "5fa15c45f6126e002e7737eb",
+      "name": "Roman Numerals",
+      "slug": "roman-numerals-2",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T04:00:09.376Z"
+    },
+    {
+      "id": "5f42c19b4c2cc4001037e7cd",
+      "name": "Enumerate consecutive runs",
+      "slug": "enumerate-consecutive-runs",
+      "completedLanguages": [
+        "sql"
+      ],
+      "completedAt": "2022-01-14T03:39:31.222Z"
+    },
+    {
+      "id": "61de6142b31ff7000cc27e10",
+      "name": "Water pouring problem",
+      "slug": "water-pouring-problem",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-14T02:59:24.093Z"
+    },
+    {
+      "id": "61e088c6e8c73e000f9fdda9",
+      "name": "Sine and Cosine",
+      "slug": "sine-and-cosine",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-14T01:41:09.153Z"
+    },
+    {
+      "id": "5f2ef12bfb6eb40019cc003e",
+      "name": "Folding a cube",
+      "slug": "folding-a-cube",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-13T10:03:26.391Z"
+    },
+    {
+      "id": "5f304fb8785c540016b9a97b",
+      "name": "Dating with hypergamy",
+      "slug": "dating-with-hypergamy",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-13T09:43:15.950Z"
+    },
+    {
+      "id": "5e8886a24475de0032695b9e",
+      "name": "2D Cellular Automata [Code Golf]",
+      "slug": "2d-cellular-automata-code-golf",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-13T09:21:45.837Z"
+    },
+    {
+      "id": "573f2116d344e09f03000d2d",
+      "name": "Timmy goes to college",
+      "slug": "timmy-goes-to-college",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-13T08:53:41.955Z"
+    },
+    {
+      "id": "592ceef6af58a64c7f00003c",
+      "name": "GA-DE-RY-PO-LU-KI cypher vol 4 - Missing key madness",
+      "slug": "ga-de-ry-po-lu-ki-cypher-vol-4-missing-key-madness",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-13T07:21:28.223Z"
+    },
+    {
+      "id": "61df200d3b603c00436b95f8",
+      "name": "Is it worth it?",
+      "slug": "is-it-worth-it-1",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-13T01:31:39.493Z"
+    },
+    {
+      "id": "61df269fc0982900573e9711",
+      "name": "Return Hello World in 300 characters or more",
+      "slug": "return-hello-world-in-300-characters-or-more",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-01-13T01:30:02.396Z"
+    },
+    {
+      "id": "61ddd9bdb04bbe003e5b2a20",
+      "name": "Glad Nvmb3R By H4d3s - cod34bl3",
+      "slug": "glad-nvmb3r-by-h4d3s-cod34bl3",
+      "completedLanguages": [
+        "ruby"
+      ],
+      "completedAt": "2022-01-12T03:06:42.583Z"
+    },
+    {
+      "id": "54db82ea19fa47e2d6000713",
+      "name": "Precise fractions pt. 2 - conversion",
+      "slug": "precise-fractions-pt-2-conversion",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-11T03:42:07.910Z"
+    },
+    {
+      "id": "61d8483f51b4d4002bc9fcd2",
+      "name": "x³ is monotone",
+      "slug": "x3-is-monotone",
+      "completedLanguages": [
+        "lean"
+      ],
+      "completedAt": "2022-01-10T07:11:08.927Z"
+    },
+    {
+      "id": "61db0b0d5b4a78000ef34d1f",
+      "name": "Bus ASCII-Art Animation",
+      "slug": "bus-ascii-art-animation",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-10T03:32:35.471Z"
+    },
+    {
+      "id": "61daff6b2fdc2a004328ffe4",
+      "name": " Compact polynomial",
+      "slug": "compact-polynomial",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-10T03:12:53.879Z"
+    },
+    {
+      "id": "61d84f21d2d2f20043437ba6",
+      "name": "Details of an N-Dimensional Hyperrectangle",
+      "slug": "details-of-an-n-dimensional-hyperrectangle",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-09T15:24:31.555Z"
+    },
+    {
+      "id": "61d971e2d2d2f200077762a5",
+      "name": "F-score",
+      "slug": "f-score",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-09T15:18:56.230Z"
+    },
+    {
+      "id": "61d7ecef60d73c002ccb58ce",
+      "name": "quiz_b2.",
+      "slug": "quiz-b2",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-07T08:57:40.000Z"
+    },
+    {
+      "id": "5b34ca5791c746079c000067",
+      "name": "Concurrent task execution",
+      "slug": "concurrent-task-execution",
+      "completedLanguages": [
+        "csharp"
+      ],
+      "completedAt": "2022-01-07T06:56:14.537Z"
+    },
+    {
+      "id": "61d76097a5f1a8000ed728d1",
+      "name": "Generate car plate numbers",
+      "slug": "generate-car-plate-numbers",
+      "completedLanguages": [
+        "php"
+      ],
+      "completedAt": "2022-01-07T04:45:06.334Z"
+    },
+    {
+      "id": "58a3c836623e8c72eb000188",
+      "name": "Simple Fun #125: Array Equalization",
+      "slug": "simple-fun-number-125-array-equalization",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-06T09:59:27.779Z"
+    },
+    {
+      "id": "55d6afe3423873eabe000069",
+      "name": "Cracking the Vigenère cipher,  step 1: determining key length",
+      "slug": "cracking-the-vigenere-cipher-step-1-determining-key-length",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-04T09:44:49.807Z"
+    },
+    {
+      "id": "55a85659b0e763acc2000015",
+      "name": "Broken Image - Puzzles #1",
+      "slug": "broken-image-puzzles-number-1",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-04T09:30:14.900Z"
+    },
+    {
+      "id": "55eaf138c1f4e9eef1000047",
+      "name": "Count the connected components",
+      "slug": "count-the-connected-components",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-04T08:59:21.934Z"
+    },
+    {
+      "id": "561c20edc71c01139000017c",
+      "name": "Organize a Round-robin tournament",
+      "slug": "organize-a-round-robin-tournament",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-04T08:54:21.963Z"
+    },
+    {
+      "id": "5bec507e1ab6db71110001fc",
+      "name": "Button sequences",
+      "slug": "button-sequences",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-04T08:13:06.599Z"
+    },
+    {
+      "id": "5f666648a1e519002d72cf94",
+      "name": "[BF] Simple square root",
+      "slug": "bf-simple-square-root",
+      "completedLanguages": [
+        "bf"
+      ],
+      "completedAt": "2022-01-04T07:47:25.908Z"
+    },
+    {
+      "id": "6171a85207ab6b003fadc43e",
+      "name": "Kingdoms  Ep4: The Dancing Witch",
+      "slug": "kingdoms-ep4-the-dancing-witch",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-04T07:39:12.136Z"
+    },
+    {
+      "id": "551e7db324b7a4d89d00030d",
+      "name": "Mandelbrot set explorer",
+      "slug": "mandelbrot-set-explorer",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-04T07:30:24.342Z"
+    },
+    {
+      "id": "5fa7ed8b2ba8d80017f95982",
+      "name": "Match Nested  HTML Snippet",
+      "slug": "match-nested-html-snippet",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-03T10:03:57.184Z"
+    },
+    {
+      "id": "61c62834ee4be500359b7f35",
+      "name": "Enumerate n-tuples with given sum",
+      "slug": "enumerate-n-tuples-with-given-sum",
+      "completedLanguages": [
+        "java"
+      ],
+      "completedAt": "2022-01-03T03:49:04.229Z"
+    },
+    {
+      "id": "61ce25e92ca4fb000f689fb0",
+      "name": "Convert ISBN-10 to ISBN-13",
+      "slug": "convert-isbn-10-to-isbn-13",
+      "completedLanguages": [
+        "python"
+      ],
+      "completedAt": "2022-01-03T03:35:42.607Z"
+    },
+    {
+      "id": "61cd51cb47979b002c90387a",
+      "name": "Brackets can be made valid?",
+      "slug": "brackets-can-be-made-valid",
+      "completedLanguages": [
+        "javascript"
+      ],
+      "completedAt": "2022-01-02T18:55:05.981Z"
+    }
+  ]
+}
